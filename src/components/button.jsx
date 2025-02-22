@@ -1,5 +1,6 @@
 export default function Button() {
+  return(
   <div>
-    <button>Buy Product</button>
-  </div>;
+    <button>View Product</button>
+  </div>)
 }
